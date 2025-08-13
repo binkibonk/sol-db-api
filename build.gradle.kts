@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.github.binkibonk"
-version = "0.1.0"
+version = "0.1.1"
 description = "Sol DB Core for PostgreSQL integration"
 
 repositories {
